@@ -67,7 +67,7 @@ export default function NewItem({ onAddItem }) {
                         onChange={(e) => setCategory(e.target.value)}
                         className="ml-1 border-2 border-gray-300 p-2 rounded-lg font-sans"
                     >
-                        <option value disabled >Category</option>
+                        <option value="" disabled>Category</option>
                         <option value="produce">Produce</option>
                         <option value="dairy">Dairy</option>
                         <option value="bakery">Bakery</option>

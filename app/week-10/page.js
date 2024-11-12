@@ -45,7 +45,7 @@ export default function Page() {
         >
           Logout
         </button>
-        <a href="/week-9/shopping-list" className="px-4 py-2 bg-green-500 text-white rounded mt-4">
+        <a href="/week-10/shopping-list" className="px-4 py-2 bg-green-500 text-white rounded mt-4">
           Go to Shopping List
         </a>
       </div>
